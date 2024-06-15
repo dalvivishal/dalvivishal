@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Vishal Dalvi!
 
-![Profile Views](https://komarev.com/ghpvc/?username=vishaldalvi&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=dalvivishal&color=brightgreen)
 
 ## About Me
 
@@ -31,8 +31,8 @@ I'm Vishal, an introverted software engineer who loves coding, learning new tech
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishaldalvi)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vishaldalvi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalvivishal/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dalvivishal_)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vishaldalvi.com)
 
 ## Recent Blog Posts
