@@ -6,11 +6,10 @@
 
 I'm Vishal, an introverted software engineer who loves coding, learning new technologies, and contributing to open-source projects. While I might be quiet, my code speaks volumes. I'm always looking to improve and take on new challenges.
 
-- 🔭 I’m currently working on **[My Current Project](https://github.com/vishaldalvi/mycurrentproject)**
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
+- 🌱 I’m currently learning **Next.js and Node.js**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 🤔 I’m looking for help with **documentation and testing**
-- 💬 Ask me about **web development, DevOps, and open-source**
+- 💬 Ask me about **Web Development, DevOps, and open-source**
 - 📫 How to reach me: **[vishaldalvi605@gmail.com](mailto:vishaldalvi605@gmail.com)**
 - ⚡ Fun fact: **I enjoy solving puzzles and playing chess in my free time.**
 
