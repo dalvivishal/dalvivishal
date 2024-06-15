@@ -42,12 +42,6 @@ I'm Vishal, an introverted software engineer who loves coding, learning new tech
 - [10 Tips for Writing Clean Code](https://vishaldalvi.com/blog/clean-code-tips)
 <!-- BLOG-POST-LIST:END -->
 
-## Support Me
-
-If you like my work, you can support me by buying me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vishaldalvi)
-
 ---
 
 *Generated with ❤️ by Vishal Dalvi*
