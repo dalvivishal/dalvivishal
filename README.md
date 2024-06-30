@@ -49,14 +49,6 @@ I'm Vishal, an introverted software engineer who loves coding, learning new tech
 [![X Badge](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dalvivishal_)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-web-dev-seven.vercel.app/)
 
-## Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Get Started with Open Source](https://vishaldalvi.com/blog/get-started-with-open-source)
-- [Understanding Kubernetes for Beginners](https://vishaldalvi.com/blog/kubernetes-for-beginners)
-- [10 Tips for Writing Clean Code](https://vishaldalvi.com/blog/clean-code-tips)
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 *Generated with ❤️ by Vishal Dalvi*
