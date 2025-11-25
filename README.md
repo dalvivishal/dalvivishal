@@ -6,7 +6,7 @@
 
 I'm Vishal, an introverted software engineer who loves coding, learning new technologies, and contributing to open-source projects. While I might be quiet, my code speaks volumes. I'm always looking to improve and take on new challenges.
 
-- 🌱 I’m currently learning **Typescript and Node.js**
+- 🌱 I’m currently learning **Generative AI**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 🤔 I’m looking for help with **documentation and testing**
 - 💬 Ask me about **Web Development, DevOps, and open-source**
