@@ -37,12 +37,6 @@ I'm Vishal, an introverted software engineer who loves coding, learning new tech
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=black)](https://mui.com/)
 
-## GitHub Stats
-
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalvivishal&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalvivishal&layout=compact&theme=radical)
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalvivishal/)
